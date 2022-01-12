@@ -1,0 +1,10 @@
+c:\users\siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\bin\Debug\RandomizingCustomers.exe.config
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\bin\Debug\RandomizingCustomers.exe
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\bin\Debug\RandomizingCustomers.pdb
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\bin\Debug\RandomizingCustomers.xml
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\obj\Debug\RandomizingCustomers.Resources.resources
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\obj\Debug\RandomizingCustomers.vbproj.GenerateResource.Cache
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\obj\Debug\RandomizingCustomers.exe
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\obj\Debug\RandomizingCustomers.xml
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\obj\Debug\RandomizingCustomers.pdb
+C:\Users\Siael\documents\visual studio 2012\Projects\RandomizingCustomers\RandomizingCustomers\obj\Debug\RandomizingCustomers.main.resources
